@@ -1,8 +1,11 @@
-package com.dckroff.todoapp;
+package com.dckroff.todoapp.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatDelegate;
 
 import android.os.Bundle;
+
+import com.dckroff.todoapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
